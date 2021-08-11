@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "shop": "全聚德",
+    "picture":"https://pic4.zhimg.com/80/v2-cd842ae7fcc59b0a969e6c12d914ab71_720w.jpg",
+    "product": "北京烤鸭",
+    "price": "￥168",
+    "ifCommented": false
+  },
+  {
+    "id": 2,
+    "shop": "山东特色菜",
+    "picture":"https://pic2.zhimg.com/v2-a7495bc4dfc67f40c9894d74b05c10a5_b.jpg",
+    "product": "沂蒙山炒鸡",
+    "price": "￥66",
+    "ifCommented": false
+  },
+  {
+    "id": 3,
+    "shop": "山西美食",
+    "picture":"https://pic3.zhimg.com/v2-83eada8b3629c99835ac8b752f9803c2_b.jpg",
+    "product": "正宗山西刀削面",
+    "price": "￥38",
+    "ifCommented": false
+  },
+  {
+    "id": 4,
+    "shop": "新鲜冷饮",
+    "picture":"https://pic2.zhimg.com/80/v2-6dbdcfd0ff3822a6a30a61dd0acf7a5e_720w.png",
+    "product": "百香果(冷饮)",
+    "price": "￥19.9",
+    "ifCommented": false
+  }
+]
